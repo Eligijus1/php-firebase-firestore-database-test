@@ -1,4 +1,5 @@
 # php-firebase-firestore-database-test
-php-firebase-firestore-database-test
 
-Using DB elygadb2-test1
+1. Using Firebase Firestore Database "elygadb2-test1"
+
+2. Add to php.ini: extension=sodium
